@@ -17,7 +17,7 @@ Books for college professors about education, engineering and computer science
 
 <img src="https://m.media-amazon.com/images/I/41V-VGx3C6L.jpg" width="300px">
 
-- Ai, Analytics, and the New Machine Age by Michael E Porter, Thomas H Davenport, Paul Daugherty, etc
+- Ai, Analytics, and the New Machine Age by Michael E Porter, Thomas H Davenport, Paul Daugherty, etc [>>](https://a.co/d/3btx2KC)
 
 <img src="https://m.media-amazon.com/images/P/B07D61RYYV.01._SCLZZZZZZZ_SX500_.jpg" width="300px">
 
