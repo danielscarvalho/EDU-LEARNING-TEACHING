@@ -29,3 +29,7 @@ Books for college professors about education, engineering and computer science
 
 - https://engage.olin.edu/experience-olin/workshops-events/summer-institute
 - https://www.olin.edu/impact-research
+- https://www.computerbasedmath.org/
+- https://www.computationalthinking.org/about/
+
+![](https://www.computationalthinking.org/about/img/4steps-helix.png)
