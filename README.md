@@ -13,6 +13,13 @@ Books for college professors about education, engineering and computer science
 
 <img src="https://m.media-amazon.com/images/I/41ZEaXKKmOL._SY346_.jpg" width="300px">
 
+- The Future of Work: The Insights You Need from Harvard Business Review (HBR Insights) by Deborah Grayson Riegel [>>](https://a.co/d/hpUvkrd)
+
+<img src="https://m.media-amazon.com/images/I/41V-VGx3C6L.jpg" width="300px">
+
+- Ai, Analytics, and the New Machine Age by Michael E Porter, Thomas H Davenport, Paul Daugherty, etc
+
+<img src="https://m.media-amazon.com/images/P/B07D61RYYV.01._SCLZZZZZZZ_SX500_.jpg" width="300px">
 
 
 ### In Portuguese
