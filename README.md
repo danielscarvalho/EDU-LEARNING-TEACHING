@@ -25,6 +25,10 @@ Books for college professors about education, engineering and computer science
 
 <img src="https://m.media-amazon.com/images/I/51ZsWN5hVGL._SX332_BO1,204,203,200_.jpg" width="300px">
 
+- Ensino de engenharia: técnicas para otimização das aulas [>>](https://a.co/d/5U5koJR)
+
+<img src="https://m.media-amazon.com/images/I/51X424-k5fL._SX351_BO1,204,203,200_.jpg" width="300px">
+
 ### Additional Referenes:
 
 - https://engage.olin.edu/experience-olin/workshops-events/summer-institute
