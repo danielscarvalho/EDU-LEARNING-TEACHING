@@ -24,3 +24,8 @@ Books for college professors about education, engineering and computer science
 - Educacao Em Engenharia: Metodologia [>>](https://a.co/d/0wSyP37)
 
 <img src="https://m.media-amazon.com/images/I/51ZsWN5hVGL._SX332_BO1,204,203,200_.jpg" width="300px">
+
+### Additional Referenes:
+
+- https://engage.olin.edu/experience-olin/workshops-events/summer-institute
+- https://www.olin.edu/impact-research
