@@ -48,3 +48,7 @@ Books for college professors about education, engineering and computer science
 - https://www.computationalthinking.org/
 
 <img src="https://www.computationalthinking.org/about/img/4steps-helix.png" width="300px">
+
+<img src="https://www.teachthought.com/wp-content/uploads/2016/02/PW-Wheel_only_V4.1.png" width="300px">
+
+
