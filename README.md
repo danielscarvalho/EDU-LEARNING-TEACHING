@@ -51,4 +51,4 @@ Books for college professors about education, engineering and computer science
 
 <img src="https://www.teachthought.com/wp-content/uploads/2016/02/PW-Wheel_only_V4.1.png" width="300px">
 
-
+<img src="https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/a/315/files/2013/09/Blooms_Taxonomy_pyramid_cake-style-use-with-permission.jpg" width="300px">
