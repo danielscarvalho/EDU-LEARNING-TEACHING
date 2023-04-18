@@ -44,6 +44,10 @@ Books for college professors about education, engineering and computer science
 
 <img src="https://m.media-amazon.com/images/I/51X424-k5fL._SX351_BO1,204,203,200_.jpg" width="300px">
 
+- Why "A" Students Work for "C" Students and Why "B" Students Work for the Government: Rich Dad's Guide to Financial Education for Parents by Robert T. Kiyosaki
+
+<img src="https://m.media-amazon.com/images/I/51LLJzPcpGL.jpg" width="300px">
+
 ### Additional Referenes:
 
 - https://engage.olin.edu/experience-olin/workshops-events/summer-institute
