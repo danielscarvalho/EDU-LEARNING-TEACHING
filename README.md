@@ -13,11 +13,11 @@ Books for college professors about education, engineering, and computer science
 
 <img src="https://m.media-amazon.com/images/I/41jOvUQ+dhL.jpg"  width="300px">
 
-- Emburrecimento Programado - O Curriculo Oculto Da Escolarizacao Obrigatoria, John Taylor Gatto
+- Emburrecimento Programado - O Curriculo Oculto Da Escolarizacao Obrigatoria, John Taylor Gatto [>>](https://a.co/d/7r6FXli)
 
 <img src="https://m.media-amazon.com/images/I/61fFbYd4-oL._SL1296_.jpg"  width="300px">
 
-- O sol é para todos Capa comum, Harper Lee
+- O sol é para todos, Harper Lee [>>](https://a.co/d/8RkgAJj)
 
 <img src="https://m.media-amazon.com/images/I/61fFbYd4-oL._SL1296_.jpg"  width="300px">
 
