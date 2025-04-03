@@ -19,7 +19,7 @@ Books for college professors about education, engineering, and computer science
 
 - O sol é para todos, Harper Lee [>>](https://a.co/d/8RkgAJj)
 
-<img src="https://m.media-amazon.com/images/I/61fFbYd4-oL._SL1296_.jpg"  width="300px">
+<img src="https://m.media-amazon.com/images/I/91WKPd60P4L._SL1500_.jpg"  width="300px">
 
 - The Math(s) Fix: An Education Blueprint for the AI Age by Conrad Wolfram [>>](https://a.co/d/gi2CjBW)
 
