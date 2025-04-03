@@ -1,5 +1,5 @@
 # EDU-LEARNING-TEACHING
-Books for college professors about education, engineering and computer science
+Books for college professors about education, engineering, and computer science
 
 - Natural Born Learners: Our Incredible Capacity to Learn and How We Can Harness It by Alex Beard [>>](https://a.co/d/c2gq5qo) 
 
@@ -12,6 +12,10 @@ Books for college professors about education, engineering and computer science
 - A Mind For Numbers: How to Excel at Math and Science by Barbara Oakley
 
 <img src="https://m.media-amazon.com/images/I/41jOvUQ+dhL.jpg"  width="300px">
+
+- Emburrecimento Programado - O Curriculo Oculto Da Escolarizacao Obrigatoria (Em Portugues do Brasil)
+
+<img src="https://m.media-amazon.com/images/I/61fFbYd4-oL._SL1296_.jpg"  width="300px">
 
 - The Math(s) Fix: An Education Blueprint for the AI Age by Conrad Wolfram [>>](https://a.co/d/gi2CjBW)
 
