@@ -1,6 +1,8 @@
 # EDU-LEARNING-TEACHING
 Books for college professors about education, engineering, and computer science
 
+### In English
+
 - Natural Born Learners: Our Incredible Capacity to Learn and How We Can Harness It by Alex Beard [>>](https://a.co/d/c2gq5qo) 
 
 <img src="https://m.media-amazon.com/images/I/416qJn+-OfL.jpg" width="300px">
@@ -37,6 +39,13 @@ Books for college professors about education, engineering, and computer science
 
 <img src="https://m.media-amazon.com/images/P/B07D61RYYV.01._SCLZZZZZZZ_SX500_.jpg" width="300px">
 
+- Why "A" Students Work for "C" Students and Why "B" Students Work for the Government: Rich Dad's Guide to Financial Education for Parents by Robert T. Kiyosaki
+
+<img src="https://m.media-amazon.com/images/I/51LLJzPcpGL.jpg" width="300px">
+
+- The Engineering Book: From the Catapult to the Curiosity Rover, 250 Milestones in the History of Engineering by Marshall Brain
+
+<img src="https://m.media-amazon.com/images/I/71TWHAhREXL._SL1112_.jpg" width="300px">
 
 ### In Portuguese
 
@@ -56,15 +65,7 @@ Books for college professors about education, engineering, and computer science
 
 <img src="https://m.media-amazon.com/images/I/51X424-k5fL._SX351_BO1,204,203,200_.jpg" width="300px">
 
-- Why "A" Students Work for "C" Students and Why "B" Students Work for the Government: Rich Dad's Guide to Financial Education for Parents by Robert T. Kiyosaki
-
-<img src="https://m.media-amazon.com/images/I/51LLJzPcpGL.jpg" width="300px">
-
-- The Engineering Book: From the Catapult to the Curiosity Rover, 250 Milestones in the History of Engineering by Marshall Brain
-
-<img src="https://m.media-amazon.com/images/I/71TWHAhREXL._SL1112_.jpg" width="300px">
-
-### Additional Referenes:
+### Additional References:
 
 - https://engage.olin.edu/experience-olin/workshops-events/summer-institute
 - https://www.olin.edu/impact-research
