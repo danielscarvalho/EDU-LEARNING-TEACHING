@@ -25,6 +25,10 @@ Books for college professors about education, engineering, and computer science
 
 <img src="https://m.media-amazon.com/images/I/41ZEaXKKmOL._SY346_.jpg" width="300px">
 
+- TEACH LIKE FINLAND: 33 Simple Strategies for Joyful Classrooms by TIMOTHY D. WALKER [>>](https://a.co/d/eX6gag4)
+
+<img width="645" height="841" alt="image" src="https://github.com/user-attachments/assets/ba342363-8c2c-4d0c-9e89-64f69edc0e90" />
+
 - The Future of Work: The Insights You Need from Harvard Business Review (HBR Insights) by Deborah Grayson Riegel [>>](https://a.co/d/hpUvkrd)
 
 <img src="https://m.media-amazon.com/images/I/41V-VGx3C6L.jpg" width="300px">
