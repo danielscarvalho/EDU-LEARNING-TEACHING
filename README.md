@@ -41,7 +41,7 @@ Books for college professors about education, engineering, and computer science
 
 - Why "A" Students Work for "C" Students and Why "B" Students Work for the Government: Rich Dad's Guide to Financial Education for Parents by Robert T. Kiyosaki
 
-<img src="https://m.media-amazon.com/images/I/51LLJzPcpGL.jpg" width="300px">
+<img src="https://m.media-amazon.com/images/I/51LLJzPcpGL.jpg" width="300px"> [>>](https://a.co/d/fmgTT5Z)
 
 - The Engineering Book: From the Catapult to the Curiosity Rover, 250 Milestones in the History of Engineering by Marshall Brain
 
