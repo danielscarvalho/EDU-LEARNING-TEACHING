@@ -11,7 +11,7 @@ Books for college professors about education, engineering, and computer science
 
 <img src="https://m.media-amazon.com/images/P/0986080047.01._SCLZZZZZZZ_SX500_.jpg" width="300px">
 
-- A Mind For Numbers: How to Excel at Math and Science by Barbara Oakley
+- A Mind For Numbers: How to Excel at Math and Science by Barbara Oakley [>>](https://a.co/d/9btHXQR)
 
 <img src="https://m.media-amazon.com/images/I/41jOvUQ+dhL.jpg"  width="300px">
 
