@@ -47,7 +47,7 @@ Books for college professors about education, engineering, and computer science
 
 <img src="https://m.media-amazon.com/images/I/71TWHAhREXL._SL1112_.jpg" width="300px">
 
-- A Universidade em Questão – 7 agosto 2021 by Georges Gusdorf
+- A Universidade em Questão by Georges Gusdorf
 
 <img src="https://m.media-amazon.com/images/I/71MHJxglWgS._SL1416_.jpg" width="300px">
 
