@@ -39,11 +39,11 @@ Books for college professors about education, engineering, and computer science
 
 <img src="https://m.media-amazon.com/images/P/B07D61RYYV.01._SCLZZZZZZZ_SX500_.jpg" width="300px">
 
-- Why "A" Students Work for "C" Students and Why "B" Students Work for the Government: Rich Dad's Guide to Financial Education for Parents by Robert T. Kiyosaki
+- Why "A" Students Work for "C" Students and Why "B" Students Work for the Government: Rich Dad's Guide to Financial Education for Parents by Robert T. Kiyosaki [>>](https://a.co/d/cElLPUD)
 
-<img src="https://m.media-amazon.com/images/I/51LLJzPcpGL.jpg" width="300px"> [>>](https://a.co/d/fmgTT5Z)
+<img src="https://m.media-amazon.com/images/I/51LLJzPcpGL.jpg" width="300px"> 
 
-- The Engineering Book: From the Catapult to the Curiosity Rover, 250 Milestones in the History of Engineering by Marshall Brain
+- The Engineering Book: From the Catapult to the Curiosity Rover, 250 Milestones in the History of Engineering by Marshall Brain [>>](https://a.co/d/fmgTT5Z)
 
 <img src="https://m.media-amazon.com/images/I/71TWHAhREXL._SL1112_.jpg" width="300px">
 
