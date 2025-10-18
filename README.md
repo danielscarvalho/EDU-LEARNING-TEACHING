@@ -29,7 +29,7 @@ Books for college professors about education, engineering, and computer science
 
 - TEACH LIKE FINLAND: 33 Simple Strategies for Joyful Classrooms by TIMOTHY D. WALKER [>>](https://a.co/d/eX6gag4)
 
-<img width="645" height="841" alt="image" src="https://github.com/user-attachments/assets/ba342363-8c2c-4d0c-9e89-64f69edc0e90" />
+<img width="300px" height="841" alt="image" src="https://github.com/user-attachments/assets/ba342363-8c2c-4d0c-9e89-64f69edc0e90" />
 
 - The Future of Work: The Insights You Need from Harvard Business Review (HBR Insights) by Deborah Grayson Riegel [>>](https://a.co/d/hpUvkrd)
 
@@ -46,10 +46,6 @@ Books for college professors about education, engineering, and computer science
 - The Engineering Book: From the Catapult to the Curiosity Rover, 250 Milestones in the History of Engineering by Marshall Brain
 
 <img src="https://m.media-amazon.com/images/I/71TWHAhREXL._SL1112_.jpg" width="300px">
-
-- A Universidade em Questão by Georges Gusdorf  [>>](https://a.co/d/8FY9sPn)
-
-<img src="https://m.media-amazon.com/images/I/71MHJxglWgS._SL1416_.jpg" width="300px">
 
 ### In Portuguese
 
@@ -68,6 +64,10 @@ Books for college professors about education, engineering, and computer science
 - Ensino de engenharia: técnicas para otimização das aulas [>>](https://a.co/d/5U5koJR)
 
 <img src="https://m.media-amazon.com/images/I/51X424-k5fL._SX351_BO1,204,203,200_.jpg" width="300px">
+
+- A Universidade em Questão by Georges Gusdorf  [>>](https://a.co/d/8FY9sPn)
+
+<img src="https://m.media-amazon.com/images/I/71MHJxglWgS._SL1416_.jpg" width="300px">
 
 ### Additional References:
 
